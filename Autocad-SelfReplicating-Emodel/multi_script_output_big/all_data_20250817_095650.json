@@ -1,0 +1,2210 @@
+{
+  "metadata": {
+    "export_timestamp": "2025-08-17T09:56:50.279077",
+    "total_outputs": 150,
+    "scripts_monitored": [
+      "cookie",
+      "client",
+      "model"
+    ],
+    "statistics": {
+      "total_outputs": 150,
+      "scripts_monitored": 3,
+      "quantum_cycles_detected": 45,
+      "training_epochs_detected": 0,
+      "errors_encountered": 0
+    }
+  },
+  "outputs": [
+    {
+      "script_name": "model",
+      "timestamp": "2025-08-17T09:56:41.501085",
+      "cycle": null,
+      "output_type": "stdout",
+      "raw_data": "",
+      "parsed_data": null,
+      "process_id": 9644,
+      "memory_usage": 645.6953125,
+      "cpu_usage": 0.0
+    },
+    {
+      "script_name": "model",
+      "timestamp": "2025-08-17T09:56:41.502918",
+      "cycle": null,
+      "output_type": "stdout",
+      "raw_data": "Welcome to Neuralink!",
+      "parsed_data": null,
+      "process_id": 9644,
+      "memory_usage": 645.6953125,
+      "cpu_usage": 0.0
+    },
+    {
+      "script_name": "model",
+      "timestamp": "2025-08-17T09:56:41.503937",
+      "cycle": null,
+      "output_type": "stdout",
+      "raw_data": ".",
+      "parsed_data": null,
+      "process_id": 9644,
+      "memory_usage": 645.6953125,
+      "cpu_usage": 0.0
+    },
+    {
+      "script_name": "model",
+      "timestamp": "2025-08-17T09:56:41.507587",
+      "cycle": null,
+      "output_type": "stdout",
+      "raw_data": "! r,|`",
+      "parsed_data": null,
+      "process_id": 9644,
+      "memory_usage": 645.8203125,
+      "cpu_usage": 0.0
+    },
+    {
+      "script_name": "model",
+      "timestamp": "2025-08-17T09:56:41.507695",
+      "cycle": null,
+      "output_type": "stdout",
+      "raw_data": "]r'|",
+      "parsed_data": null,
+      "process_id": 9644,
+      "memory_usage": 645.8203125,
+      "cpu_usage": 0.0
+    },
+    {
+      "script_name": "model",
+      "timestamp": "2025-08-17T09:56:41.510131",
+      "cycle": null,
+      "output_type": "stdout",
+      "raw_data": "_gggg$g_",
+      "parsed_data": null,
+      "process_id": 9644,
+      "memory_usage": 645.8203125,
+      "cpu_usage": 0.0
+    },
+    {
+      "script_name": "model",
+      "timestamp": "2025-08-17T09:56:41.510240",
+      "cycle": null,
+      "output_type": "stdout",
+      "raw_data": "`,zzm$MMMMMM$mz'~'",
+      "parsed_data": null,
+      "process_id": 9644,
+      "memory_usage": 645.8203125,
+      "cpu_usage": 0.0
+    },
+    {
+      "script_name": "model",
+      "timestamp": "2025-08-17T09:56:41.510333",
+      "cycle": null,
+      "output_type": "stdout",
+      "raw_data": "' ~~~~$MWCPUM$@~~~",
+      "parsed_data": null,
+      "process_id": 9644,
+      "memory_usage": 645.8203125,
+      "cpu_usage": 0.0
+    },
+    {
+      "script_name": "model",
+      "timestamp": "2025-08-17T09:56:41.510423",
+      "cycle": null,
+      "output_type": "stdout",
+      "raw_data": ".`-+$MMMMMM$+-`..",
+      "parsed_data": null,
+      "process_id": 9644,
+      "memory_usage": 645.8203125,
+      "cpu_usage": 0.0
+    },
+    {
+      "script_name": "model",
+      "timestamp": "2025-08-17T09:56:41.510514",
+      "cycle": null,
+      "output_type": "stdout",
+      "raw_data": "*$FQTP",
+      "parsed_data": null,
+      "process_id": 9644,
+      "memory_usage": 645.8203125,
+      "cpu_usage": 0.0
+    },
+    {
+      "script_name": "model",
+      "timestamp": "2025-08-17T09:56:41.510614",
+      "cycle": null,
+      "output_type": "stdout",
+      "raw_data": "1r |.",
+      "parsed_data": null,
+      "process_id": 9644,
+      "memory_usage": 645.8203125,
+      "cpu_usage": 0.0
+    },
+    {
+      "script_name": "model",
+      "timestamp": "2025-08-17T09:56:41.512524",
+      "cycle": null,
+      "output_type": "stdout",
+      "raw_data": "|'L\" |",
+      "parsed_data": null,
+      "process_id": 9644,
+      "memory_usage": 645.8203125,
+      "cpu_usage": 0.0
+    },
+    {
+      "script_name": "model",
+      "timestamp": "2025-08-17T09:56:41.512642",
+      "cycle": null,
+      "output_type": "stdout",
+      "raw_data": "'",
+      "parsed_data": null,
+      "process_id": 9644,
+      "memory_usage": 646.1953125,
+      "cpu_usage": 0.0
+    },
+    {
+      "script_name": "model",
+      "timestamp": "2025-08-17T09:56:41.514714",
+      "cycle": null,
+      "output_type": "stdout",
+      "raw_data": "",
+      "parsed_data": null,
+      "process_id": 9644,
+      "memory_usage": 646.4453125,
+      "cpu_usage": 0.0
+    },
+    {
+      "script_name": "model",
+      "timestamp": "2025-08-17T09:56:41.514858",
+      "cycle": null,
+      "output_type": "stdout",
+      "raw_data": "INFO|2025-08-17 09:56:41,500|neuralink|__init__.py|<module>|20: Installing Neuralink Version: 0.0.1",
+      "parsed_data": null,
+      "process_id": 9644,
+      "memory_usage": 646.4453125,
+      "cpu_usage": 0.0
+    },
+    {
+      "script_name": "cookie",
+      "timestamp": "2025-08-17T09:56:42.468622",
+      "cycle": null,
+      "output_type": "stdout",
+      "raw_data": "",
+      "parsed_data": null,
+      "process_id": 9640,
+      "memory_usage": 645.4140625,
+      "cpu_usage": 0.0
+    },
+    {
+      "script_name": "cookie",
+      "timestamp": "2025-08-17T09:56:42.468754",
+      "cycle": null,
+      "output_type": "stdout",
+      "raw_data": "Welcome to Neuralink!",
+      "parsed_data": null,
+      "process_id": 9640,
+      "memory_usage": 645.4140625,
+      "cpu_usage": 0.0
+    },
+    {
+      "script_name": "cookie",
+      "timestamp": "2025-08-17T09:56:42.468845",
+      "cycle": null,
+      "output_type": "stdout",
+      "raw_data": ".",
+      "parsed_data": null,
+      "process_id": 9640,
+      "memory_usage": 645.4140625,
+      "cpu_usage": 0.0
+    },
+    {
+      "script_name": "cookie",
+      "timestamp": "2025-08-17T09:56:42.468930",
+      "cycle": null,
+      "output_type": "stdout",
+      "raw_data": "! r,|`",
+      "parsed_data": null,
+      "process_id": 9640,
+      "memory_usage": 645.4140625,
+      "cpu_usage": 0.0
+    },
+    {
+      "script_name": "cookie",
+      "timestamp": "2025-08-17T09:56:42.469014",
+      "cycle": null,
+      "output_type": "stdout",
+      "raw_data": "]r'|",
+      "parsed_data": null,
+      "process_id": 9640,
+      "memory_usage": 645.4140625,
+      "cpu_usage": 0.0
+    },
+    {
+      "script_name": "cookie",
+      "timestamp": "2025-08-17T09:56:42.469098",
+      "cycle": null,
+      "output_type": "stdout",
+      "raw_data": "_gggg$g_",
+      "parsed_data": null,
+      "process_id": 9640,
+      "memory_usage": 645.4140625,
+      "cpu_usage": 0.0
+    },
+    {
+      "script_name": "cookie",
+      "timestamp": "2025-08-17T09:56:42.469182",
+      "cycle": null,
+      "output_type": "stdout",
+      "raw_data": "`,zzm$MMMMMM$mz'~'",
+      "parsed_data": null,
+      "process_id": 9640,
+      "memory_usage": 645.4140625,
+      "cpu_usage": 0.0
+    },
+    {
+      "script_name": "cookie",
+      "timestamp": "2025-08-17T09:56:42.469267",
+      "cycle": null,
+      "output_type": "stdout",
+      "raw_data": "' ~~~~$MWCPUM$@~~~",
+      "parsed_data": null,
+      "process_id": 9640,
+      "memory_usage": 645.4140625,
+      "cpu_usage": 0.0
+    },
+    {
+      "script_name": "cookie",
+      "timestamp": "2025-08-17T09:56:42.469354",
+      "cycle": null,
+      "output_type": "stdout",
+      "raw_data": ".`-+$MMMMMM$+-`..",
+      "parsed_data": null,
+      "process_id": 9640,
+      "memory_usage": 645.4140625,
+      "cpu_usage": 0.0
+    },
+    {
+      "script_name": "cookie",
+      "timestamp": "2025-08-17T09:56:42.469447",
+      "cycle": null,
+      "output_type": "stdout",
+      "raw_data": "*$FQTP",
+      "parsed_data": null,
+      "process_id": 9640,
+      "memory_usage": 645.4140625,
+      "cpu_usage": 0.0
+    },
+    {
+      "script_name": "cookie",
+      "timestamp": "2025-08-17T09:56:42.469538",
+      "cycle": null,
+      "output_type": "stdout",
+      "raw_data": "1r |.",
+      "parsed_data": null,
+      "process_id": 9640,
+      "memory_usage": 645.4140625,
+      "cpu_usage": 0.0
+    },
+    {
+      "script_name": "cookie",
+      "timestamp": "2025-08-17T09:56:42.469640",
+      "cycle": null,
+      "output_type": "stdout",
+      "raw_data": "|'L\" |",
+      "parsed_data": null,
+      "process_id": 9640,
+      "memory_usage": 645.4140625,
+      "cpu_usage": 0.0
+    },
+    {
+      "script_name": "cookie",
+      "timestamp": "2025-08-17T09:56:42.469733",
+      "cycle": null,
+      "output_type": "stdout",
+      "raw_data": "'",
+      "parsed_data": null,
+      "process_id": 9640,
+      "memory_usage": 645.4140625,
+      "cpu_usage": 0.0
+    },
+    {
+      "script_name": "cookie",
+      "timestamp": "2025-08-17T09:56:42.493726",
+      "cycle": null,
+      "output_type": "stdout",
+      "raw_data": "",
+      "parsed_data": null,
+      "process_id": 9640,
+      "memory_usage": 645.9140625,
+      "cpu_usage": 0.0
+    },
+    {
+      "script_name": "cookie",
+      "timestamp": "2025-08-17T09:56:42.493857",
+      "cycle": null,
+      "output_type": "stdout",
+      "raw_data": "INFO|2025-08-17 09:56:42,483|neuralink|__init__.py|<module>|20: Installing Neuralink Version: 0.0.1",
+      "parsed_data": null,
+      "process_id": 9640,
+      "memory_usage": 645.9140625,
+      "cpu_usage": 0.0
+    },
+    {
+      "script_name": "client",
+      "timestamp": "2025-08-17T09:56:42.984889",
+      "cycle": null,
+      "output_type": "stdout",
+      "raw_data": "",
+      "parsed_data": null,
+      "process_id": 9642,
+      "memory_usage": 644.11328125,
+      "cpu_usage": 0.0
+    },
+    {
+      "script_name": "client",
+      "timestamp": "2025-08-17T09:56:42.985020",
+      "cycle": null,
+      "output_type": "stdout",
+      "raw_data": "Welcome to Neuralink!",
+      "parsed_data": null,
+      "process_id": 9642,
+      "memory_usage": 644.11328125,
+      "cpu_usage": 0.0
+    },
+    {
+      "script_name": "client",
+      "timestamp": "2025-08-17T09:56:42.985109",
+      "cycle": null,
+      "output_type": "stdout",
+      "raw_data": ".",
+      "parsed_data": null,
+      "process_id": 9642,
+      "memory_usage": 644.11328125,
+      "cpu_usage": 0.0
+    },
+    {
+      "script_name": "client",
+      "timestamp": "2025-08-17T09:56:42.985194",
+      "cycle": null,
+      "output_type": "stdout",
+      "raw_data": "! r,|`",
+      "parsed_data": null,
+      "process_id": 9642,
+      "memory_usage": 644.11328125,
+      "cpu_usage": 0.0
+    },
+    {
+      "script_name": "client",
+      "timestamp": "2025-08-17T09:56:42.985277",
+      "cycle": null,
+      "output_type": "stdout",
+      "raw_data": "]r'|",
+      "parsed_data": null,
+      "process_id": 9642,
+      "memory_usage": 644.11328125,
+      "cpu_usage": 0.0
+    },
+    {
+      "script_name": "client",
+      "timestamp": "2025-08-17T09:56:42.985362",
+      "cycle": null,
+      "output_type": "stdout",
+      "raw_data": "_gggg$g_",
+      "parsed_data": null,
+      "process_id": 9642,
+      "memory_usage": 644.11328125,
+      "cpu_usage": 0.0
+    },
+    {
+      "script_name": "client",
+      "timestamp": "2025-08-17T09:56:42.985448",
+      "cycle": null,
+      "output_type": "stdout",
+      "raw_data": "`,zzm$MMMMMM$mz'~'",
+      "parsed_data": null,
+      "process_id": 9642,
+      "memory_usage": 644.11328125,
+      "cpu_usage": 0.0
+    },
+    {
+      "script_name": "client",
+      "timestamp": "2025-08-17T09:56:42.985535",
+      "cycle": null,
+      "output_type": "stdout",
+      "raw_data": "' ~~~~$MWCPUM$@~~~",
+      "parsed_data": null,
+      "process_id": 9642,
+      "memory_usage": 644.11328125,
+      "cpu_usage": 0.0
+    },
+    {
+      "script_name": "client",
+      "timestamp": "2025-08-17T09:56:42.985634",
+      "cycle": null,
+      "output_type": "stdout",
+      "raw_data": ".`-+$MMMMMM$+-`..",
+      "parsed_data": null,
+      "process_id": 9642,
+      "memory_usage": 644.11328125,
+      "cpu_usage": 0.0
+    },
+    {
+      "script_name": "client",
+      "timestamp": "2025-08-17T09:56:42.985725",
+      "cycle": null,
+      "output_type": "stdout",
+      "raw_data": "*$FQTP",
+      "parsed_data": null,
+      "process_id": 9642,
+      "memory_usage": 644.11328125,
+      "cpu_usage": 0.0
+    },
+    {
+      "script_name": "client",
+      "timestamp": "2025-08-17T09:56:42.985816",
+      "cycle": null,
+      "output_type": "stdout",
+      "raw_data": "1r |.",
+      "parsed_data": null,
+      "process_id": 9642,
+      "memory_usage": 644.11328125,
+      "cpu_usage": 0.0
+    },
+    {
+      "script_name": "client",
+      "timestamp": "2025-08-17T09:56:42.985908",
+      "cycle": null,
+      "output_type": "stdout",
+      "raw_data": "|'L\" |",
+      "parsed_data": null,
+      "process_id": 9642,
+      "memory_usage": 644.11328125,
+      "cpu_usage": 0.0
+    },
+    {
+      "script_name": "client",
+      "timestamp": "2025-08-17T09:56:42.985998",
+      "cycle": null,
+      "output_type": "stdout",
+      "raw_data": "'",
+      "parsed_data": null,
+      "process_id": 9642,
+      "memory_usage": 644.11328125,
+      "cpu_usage": 0.0
+    },
+    {
+      "script_name": "client",
+      "timestamp": "2025-08-17T09:56:42.986089",
+      "cycle": null,
+      "output_type": "stdout",
+      "raw_data": "",
+      "parsed_data": null,
+      "process_id": 9642,
+      "memory_usage": 644.11328125,
+      "cpu_usage": 0.0
+    },
+    {
+      "script_name": "client",
+      "timestamp": "2025-08-17T09:56:42.986188",
+      "cycle": null,
+      "output_type": "stdout",
+      "raw_data": "INFO|2025-08-17 09:56:42,982|neuralink|__init__.py|<module>|20: Installing Neuralink Version: 0.0.1",
+      "parsed_data": null,
+      "process_id": 9642,
+      "memory_usage": 644.11328125,
+      "cpu_usage": 0.0
+    },
+    {
+      "script_name": "model",
+      "timestamp": "2025-08-17T09:56:43.174461",
+      "cycle": null,
+      "output_type": "stdout",
+      "raw_data": "\ud83c\udf1f Welcome to the Quantum-Neural Feelings Hive!",
+      "parsed_data": null,
+      "process_id": 9644,
+      "memory_usage": 668.55078125,
+      "cpu_usage": 0.0
+    },
+    {
+      "script_name": "model",
+      "timestamp": "2025-08-17T09:56:43.176723",
+      "cycle": null,
+      "output_type": "stdout",
+      "raw_data": "\ud83d\udd2c This combines:",
+      "parsed_data": null,
+      "process_id": 9644,
+      "memory_usage": 668.67578125,
+      "cpu_usage": 0.0
+    },
+    {
+      "script_name": "model",
+      "timestamp": "2025-08-17T09:56:43.176836",
+      "cycle": null,
+      "output_type": "stdout",
+      "raw_data": "\u2022 Cirq: Quantum emotion processing",
+      "parsed_data": null,
+      "process_id": 9644,
+      "memory_usage": 668.67578125,
+      "cpu_usage": 0.0
+    },
+    {
+      "script_name": "model",
+      "timestamp": "2025-08-17T09:56:43.176936",
+      "cycle": null,
+      "output_type": "stdout",
+      "raw_data": "\u2022 Brian2: Spiking neural networks",
+      "parsed_data": null,
+      "process_id": 9644,
+      "memory_usage": 668.67578125,
+      "cpu_usage": 0.0
+    },
+    {
+      "script_name": "model",
+      "timestamp": "2025-08-17T09:56:43.177033",
+      "cycle": null,
+      "output_type": "stdout",
+      "raw_data": "\u2022 Neuralink-style brain-computer interface simulation",
+      "parsed_data": null,
+      "process_id": 9644,
+      "memory_usage": 668.67578125,
+      "cpu_usage": 0.0
+    },
+    {
+      "script_name": "model",
+      "timestamp": "2025-08-17T09:56:43.177129",
+      "cycle": null,
+      "output_type": "stdout",
+      "raw_data": "",
+      "parsed_data": null,
+      "process_id": 9644,
+      "memory_usage": 668.67578125,
+      "cpu_usage": 0.0
+    },
+    {
+      "script_name": "model",
+      "timestamp": "2025-08-17T09:56:43.177224",
+      "cycle": null,
+      "output_type": "stdout",
+      "raw_data": "\ud83c\udf10 Initializing Quantum-Neural Feelings Hive Circuit...",
+      "parsed_data": null,
+      "process_id": 9644,
+      "memory_usage": 668.67578125,
+      "cpu_usage": 0.0
+    },
+    {
+      "script_name": "model",
+      "timestamp": "2025-08-17T09:56:43.177324",
+      "cycle": null,
+      "output_type": "stdout",
+      "raw_data": "\ud83e\udde0 Neural layer: Brian2 spiking neurons",
+      "parsed_data": null,
+      "process_id": 9644,
+      "memory_usage": 668.67578125,
+      "cpu_usage": 0.0
+    },
+    {
+      "script_name": "model",
+      "timestamp": "2025-08-17T09:56:43.177419",
+      "cycle": null,
+      "output_type": "stdout",
+      "raw_data": "\u269b\ufe0f  Quantum layer: Cirq quantum circuits",
+      "parsed_data": null,
+      "process_id": 9644,
+      "memory_usage": 668.67578125,
+      "cpu_usage": 0.0
+    },
+    {
+      "script_name": "model",
+      "timestamp": "2025-08-17T09:56:43.203833",
+      "cycle": null,
+      "output_type": "stdout",
+      "raw_data": "",
+      "parsed_data": null,
+      "process_id": 9644,
+      "memory_usage": 669.05078125,
+      "cpu_usage": 0.0
+    },
+    {
+      "script_name": "model",
+      "timestamp": "2025-08-17T09:56:43.203989",
+      "cycle": null,
+      "output_type": "stdout",
+      "raw_data": "\ud83d\ude80 Starting Quantum-Neural Feelings Hive...",
+      "parsed_data": null,
+      "process_id": 9644,
+      "memory_usage": 669.05078125,
+      "cpu_usage": 0.0
+    },
+    {
+      "script_name": "model",
+      "timestamp": "2025-08-17T09:56:43.204093",
+      "cycle": null,
+      "output_type": "stdout",
+      "raw_data": "\ud83d\udca1 This simulates a neuralink-style brain-computer interface",
+      "parsed_data": null,
+      "process_id": 9644,
+      "memory_usage": 669.05078125,
+      "cpu_usage": 0.0
+    },
+    {
+      "script_name": "model",
+      "timestamp": "2025-08-17T09:56:43.204667",
+      "cycle": null,
+      "output_type": "stdout",
+      "raw_data": "combining quantum emotional processing with neural dynamics",
+      "parsed_data": null,
+      "process_id": 9644,
+      "memory_usage": 669.05078125,
+      "cpu_usage": 0.0
+    },
+    {
+      "script_name": "model",
+      "timestamp": "2025-08-17T09:56:43.204783",
+      "cycle": null,
+      "output_type": "stdout",
+      "raw_data": "",
+      "parsed_data": null,
+      "process_id": 9644,
+      "memory_usage": 669.05078125,
+      "cpu_usage": 0.0
+    },
+    {
+      "script_name": "model",
+      "timestamp": "2025-08-17T09:56:43.204884",
+      "cycle": null,
+      "output_type": "stdout",
+      "raw_data": "\u26a1 Press Ctrl+C to stop and view results",
+      "parsed_data": null,
+      "process_id": 9644,
+      "memory_usage": 669.05078125,
+      "cpu_usage": 0.0
+    },
+    {
+      "script_name": "model",
+      "timestamp": "2025-08-17T09:56:43.204983",
+      "cycle": null,
+      "output_type": "stdout",
+      "raw_data": "",
+      "parsed_data": null,
+      "process_id": 9644,
+      "memory_usage": 669.05078125,
+      "cpu_usage": 0.0
+    },
+    {
+      "script_name": "model",
+      "timestamp": "2025-08-17T09:56:43.207646",
+      "cycle": null,
+      "output_type": "stdout",
+      "raw_data": "",
+      "parsed_data": null,
+      "process_id": 9644,
+      "memory_usage": 669.05078125,
+      "cpu_usage": 0.0
+    },
+    {
+      "script_name": "model",
+      "timestamp": "2025-08-17T09:56:43.207763",
+      "cycle": null,
+      "output_type": "stdout",
+      "raw_data": "\ud83d\udd04 Cycle 1",
+      "parsed_data": null,
+      "process_id": 9644,
+      "memory_usage": 669.05078125,
+      "cpu_usage": 0.0
+    },
+    {
+      "script_name": "model",
+      "timestamp": "2025-08-17T09:56:43.208031",
+      "cycle": null,
+      "output_type": "stdout",
+      "raw_data": "\ud83d\udd2e Initializing Quantum Sentiment Processor...",
+      "parsed_data": null,
+      "process_id": 9644,
+      "memory_usage": 669.05078125,
+      "cpu_usage": 0.0
+    },
+    {
+      "script_name": "model",
+      "timestamp": "2025-08-17T09:56:43.216638",
+      "cycle": null,
+      "output_type": "stdout",
+      "raw_data": "\ud83d\udcca Classical \u2192 Host: 0.714, Mate: 0.733, Shared: 0.709",
+      "parsed_data": null,
+      "process_id": 9644,
+      "memory_usage": 669.20703125,
+      "cpu_usage": 0.0
+    },
+    {
+      "script_name": "model",
+      "timestamp": "2025-08-17T09:56:43.222202",
+      "cycle": 1,
+      "output_type": "stdout",
+      "raw_data": "\u269b\ufe0f  Quantum   \u2192 Host: 0.376, Mate: 0.328, Shared: 0.240",
+      "parsed_data": {
+        "quantum_sentiment": {
+          "cycle": 1,
+          "classical_host": 0.714,
+          "classical_mate": 0.733,
+          "classical_shared": 0.709,
+          "quantum_host": 0.376,
+          "quantum_mate": 0.328,
+          "quantum_shared": 0.24,
+          "timestamp": "2025-08-17T09:56:43.222236",
+          "script_source": "model"
+        }
+      },
+      "process_id": 9644,
+      "memory_usage": 669.33203125,
+      "cpu_usage": 0.0
+    },
+    {
+      "script_name": "cookie",
+      "timestamp": "2025-08-17T09:56:43.682768",
+      "cycle": null,
+      "output_type": "stdout",
+      "raw_data": "\ud83c\udf1f Welcome to the Quantum-Neural Feelings Hive!",
+      "parsed_data": null,
+      "process_id": 9640,
+      "memory_usage": 668.01953125,
+      "cpu_usage": 0.0
+    },
+    {
+      "script_name": "cookie",
+      "timestamp": "2025-08-17T09:56:43.682954",
+      "cycle": null,
+      "output_type": "stdout",
+      "raw_data": "\ud83d\udd2c This combines:",
+      "parsed_data": null,
+      "process_id": 9640,
+      "memory_usage": 668.01953125,
+      "cpu_usage": 0.0
+    },
+    {
+      "script_name": "cookie",
+      "timestamp": "2025-08-17T09:56:43.683098",
+      "cycle": null,
+      "output_type": "stdout",
+      "raw_data": "\u2022 Cirq: Quantum emotion processing",
+      "parsed_data": null,
+      "process_id": 9640,
+      "memory_usage": 668.01953125,
+      "cpu_usage": 0.0
+    },
+    {
+      "script_name": "cookie",
+      "timestamp": "2025-08-17T09:56:43.683231",
+      "cycle": null,
+      "output_type": "stdout",
+      "raw_data": "\u2022 Brian2: Spiking neural networks",
+      "parsed_data": null,
+      "process_id": 9640,
+      "memory_usage": 668.01953125,
+      "cpu_usage": 0.0
+    },
+    {
+      "script_name": "cookie",
+      "timestamp": "2025-08-17T09:56:43.683363",
+      "cycle": null,
+      "output_type": "stdout",
+      "raw_data": "\u2022 Neuralink-style brain-computer interface simulation",
+      "parsed_data": null,
+      "process_id": 9640,
+      "memory_usage": 668.01953125,
+      "cpu_usage": 0.0
+    },
+    {
+      "script_name": "cookie",
+      "timestamp": "2025-08-17T09:56:43.687042",
+      "cycle": null,
+      "output_type": "stdout",
+      "raw_data": "",
+      "parsed_data": null,
+      "process_id": 9640,
+      "memory_usage": 668.14453125,
+      "cpu_usage": 0.0
+    },
+    {
+      "script_name": "cookie",
+      "timestamp": "2025-08-17T09:56:43.687153",
+      "cycle": null,
+      "output_type": "stdout",
+      "raw_data": "\ud83c\udf10 Initializing Quantum-Neural Feelings Hive Circuit...",
+      "parsed_data": null,
+      "process_id": 9640,
+      "memory_usage": 668.14453125,
+      "cpu_usage": 0.0
+    },
+    {
+      "script_name": "cookie",
+      "timestamp": "2025-08-17T09:56:43.687259",
+      "cycle": null,
+      "output_type": "stdout",
+      "raw_data": "\ud83e\udde0 Neural layer: Brian2 spiking neurons",
+      "parsed_data": null,
+      "process_id": 9640,
+      "memory_usage": 668.14453125,
+      "cpu_usage": 0.0
+    },
+    {
+      "script_name": "cookie",
+      "timestamp": "2025-08-17T09:56:43.687356",
+      "cycle": null,
+      "output_type": "stdout",
+      "raw_data": "\u269b\ufe0f  Quantum layer: Cirq quantum circuits",
+      "parsed_data": null,
+      "process_id": 9640,
+      "memory_usage": 668.14453125,
+      "cpu_usage": 0.0
+    },
+    {
+      "script_name": "cookie",
+      "timestamp": "2025-08-17T09:56:43.729758",
+      "cycle": null,
+      "output_type": "stdout",
+      "raw_data": "",
+      "parsed_data": null,
+      "process_id": 9640,
+      "memory_usage": 668.39453125,
+      "cpu_usage": 0.0
+    },
+    {
+      "script_name": "cookie",
+      "timestamp": "2025-08-17T09:56:43.735687",
+      "cycle": null,
+      "output_type": "stdout",
+      "raw_data": "\ud83d\ude80 Starting Quantum-Neural Feelings Hive...",
+      "parsed_data": null,
+      "process_id": 9640,
+      "memory_usage": 668.39453125,
+      "cpu_usage": 0.0
+    },
+    {
+      "script_name": "cookie",
+      "timestamp": "2025-08-17T09:56:43.735830",
+      "cycle": null,
+      "output_type": "stdout",
+      "raw_data": "\ud83d\udca1 This simulates a neuralink-style brain-computer interface",
+      "parsed_data": null,
+      "process_id": 9640,
+      "memory_usage": 668.39453125,
+      "cpu_usage": 0.0
+    },
+    {
+      "script_name": "cookie",
+      "timestamp": "2025-08-17T09:56:43.735945",
+      "cycle": null,
+      "output_type": "stdout",
+      "raw_data": "combining quantum emotional processing with neural dynamics",
+      "parsed_data": null,
+      "process_id": 9640,
+      "memory_usage": 668.39453125,
+      "cpu_usage": 0.0
+    },
+    {
+      "script_name": "cookie",
+      "timestamp": "2025-08-17T09:56:43.736049",
+      "cycle": null,
+      "output_type": "stdout",
+      "raw_data": "",
+      "parsed_data": null,
+      "process_id": 9640,
+      "memory_usage": 668.39453125,
+      "cpu_usage": 0.0
+    },
+    {
+      "script_name": "cookie",
+      "timestamp": "2025-08-17T09:56:43.736148",
+      "cycle": null,
+      "output_type": "stdout",
+      "raw_data": "\u26a1 Press Ctrl+C to stop and view results",
+      "parsed_data": null,
+      "process_id": 9640,
+      "memory_usage": 668.39453125,
+      "cpu_usage": 0.0
+    },
+    {
+      "script_name": "cookie",
+      "timestamp": "2025-08-17T09:56:43.736245",
+      "cycle": null,
+      "output_type": "stdout",
+      "raw_data": "",
+      "parsed_data": null,
+      "process_id": 9640,
+      "memory_usage": 668.39453125,
+      "cpu_usage": 0.0
+    },
+    {
+      "script_name": "cookie",
+      "timestamp": "2025-08-17T09:56:43.736341",
+      "cycle": null,
+      "output_type": "stdout",
+      "raw_data": "",
+      "parsed_data": null,
+      "process_id": 9640,
+      "memory_usage": 668.39453125,
+      "cpu_usage": 0.0
+    },
+    {
+      "script_name": "cookie",
+      "timestamp": "2025-08-17T09:56:43.736437",
+      "cycle": null,
+      "output_type": "stdout",
+      "raw_data": "\ud83d\udd04 Cycle 1",
+      "parsed_data": null,
+      "process_id": 9640,
+      "memory_usage": 668.39453125,
+      "cpu_usage": 0.0
+    },
+    {
+      "script_name": "cookie",
+      "timestamp": "2025-08-17T09:56:43.736542",
+      "cycle": null,
+      "output_type": "stdout",
+      "raw_data": "\ud83d\udd2e Initializing Quantum Sentiment Processor...",
+      "parsed_data": null,
+      "process_id": 9640,
+      "memory_usage": 668.39453125,
+      "cpu_usage": 0.0
+    },
+    {
+      "script_name": "cookie",
+      "timestamp": "2025-08-17T09:56:43.749119",
+      "cycle": null,
+      "output_type": "stdout",
+      "raw_data": "\ud83d\udcca Classical \u2192 Host: 0.562, Mate: 0.710, Shared: 0.603",
+      "parsed_data": null,
+      "process_id": 9640,
+      "memory_usage": 668.9921875,
+      "cpu_usage": 0.0
+    },
+    {
+      "script_name": "cookie",
+      "timestamp": "2025-08-17T09:56:43.749247",
+      "cycle": 1,
+      "output_type": "stdout",
+      "raw_data": "\u269b\ufe0f  Quantum   \u2192 Host: 0.272, Mate: 0.288, Shared: 0.216",
+      "parsed_data": {
+        "quantum_sentiment": {
+          "cycle": 1,
+          "classical_host": 0.562,
+          "classical_mate": 0.71,
+          "classical_shared": 0.603,
+          "quantum_host": 0.272,
+          "quantum_mate": 0.288,
+          "quantum_shared": 0.216,
+          "timestamp": "2025-08-17T09:56:43.749270",
+          "script_source": "cookie"
+        }
+      },
+      "process_id": 9640,
+      "memory_usage": 668.9921875,
+      "cpu_usage": 0.0
+    },
+    {
+      "script_name": "client",
+      "timestamp": "2025-08-17T09:56:44.185442",
+      "cycle": null,
+      "output_type": "stdout",
+      "raw_data": "\ud83c\udf1f Welcome to the Quantum-Neural Feelings Hive!",
+      "parsed_data": null,
+      "process_id": 9642,
+      "memory_usage": 666.78125,
+      "cpu_usage": 0.0
+    },
+    {
+      "script_name": "client",
+      "timestamp": "2025-08-17T09:56:44.186062",
+      "cycle": null,
+      "output_type": "stdout",
+      "raw_data": "\ud83d\udd2c This combines:",
+      "parsed_data": null,
+      "process_id": 9642,
+      "memory_usage": 666.78125,
+      "cpu_usage": 0.0
+    },
+    {
+      "script_name": "client",
+      "timestamp": "2025-08-17T09:56:44.186191",
+      "cycle": null,
+      "output_type": "stdout",
+      "raw_data": "\u2022 Cirq: Quantum emotion processing",
+      "parsed_data": null,
+      "process_id": 9642,
+      "memory_usage": 666.78125,
+      "cpu_usage": 0.0
+    },
+    {
+      "script_name": "client",
+      "timestamp": "2025-08-17T09:56:44.186296",
+      "cycle": null,
+      "output_type": "stdout",
+      "raw_data": "\u2022 Brian2: Spiking neural networks",
+      "parsed_data": null,
+      "process_id": 9642,
+      "memory_usage": 666.78125,
+      "cpu_usage": 0.0
+    },
+    {
+      "script_name": "client",
+      "timestamp": "2025-08-17T09:56:44.186450",
+      "cycle": null,
+      "output_type": "stdout",
+      "raw_data": "\u2022 Neuralink-style brain-computer interface simulation",
+      "parsed_data": null,
+      "process_id": 9642,
+      "memory_usage": 666.78125,
+      "cpu_usage": 0.0
+    },
+    {
+      "script_name": "client",
+      "timestamp": "2025-08-17T09:56:44.186546",
+      "cycle": null,
+      "output_type": "stdout",
+      "raw_data": "",
+      "parsed_data": null,
+      "process_id": 9642,
+      "memory_usage": 666.78125,
+      "cpu_usage": 0.0
+    },
+    {
+      "script_name": "client",
+      "timestamp": "2025-08-17T09:56:44.186647",
+      "cycle": null,
+      "output_type": "stdout",
+      "raw_data": "\ud83c\udf10 Initializing Quantum-Neural Feelings Hive Circuit...",
+      "parsed_data": null,
+      "process_id": 9642,
+      "memory_usage": 666.78125,
+      "cpu_usage": 0.0
+    },
+    {
+      "script_name": "client",
+      "timestamp": "2025-08-17T09:56:44.186741",
+      "cycle": null,
+      "output_type": "stdout",
+      "raw_data": "\ud83e\udde0 Neural layer: Brian2 spiking neurons",
+      "parsed_data": null,
+      "process_id": 9642,
+      "memory_usage": 666.78125,
+      "cpu_usage": 0.0
+    },
+    {
+      "script_name": "client",
+      "timestamp": "2025-08-17T09:56:44.186833",
+      "cycle": null,
+      "output_type": "stdout",
+      "raw_data": "\u269b\ufe0f  Quantum layer: Cirq quantum circuits",
+      "parsed_data": null,
+      "process_id": 9642,
+      "memory_usage": 666.78125,
+      "cpu_usage": 0.0
+    },
+    {
+      "script_name": "client",
+      "timestamp": "2025-08-17T09:56:44.218630",
+      "cycle": null,
+      "output_type": "stdout",
+      "raw_data": "",
+      "parsed_data": null,
+      "process_id": 9642,
+      "memory_usage": 667.15625,
+      "cpu_usage": 0.0
+    },
+    {
+      "script_name": "client",
+      "timestamp": "2025-08-17T09:56:44.225016",
+      "cycle": null,
+      "output_type": "stdout",
+      "raw_data": "\ud83d\ude80 Starting Quantum-Neural Feelings Hive...",
+      "parsed_data": null,
+      "process_id": 9642,
+      "memory_usage": 667.15625,
+      "cpu_usage": 0.0
+    },
+    {
+      "script_name": "client",
+      "timestamp": "2025-08-17T09:56:44.225459",
+      "cycle": null,
+      "output_type": "stdout",
+      "raw_data": "\ud83d\udca1 This simulates a neuralink-style brain-computer interface",
+      "parsed_data": null,
+      "process_id": 9642,
+      "memory_usage": 667.15625,
+      "cpu_usage": 0.0
+    },
+    {
+      "script_name": "client",
+      "timestamp": "2025-08-17T09:56:44.225600",
+      "cycle": null,
+      "output_type": "stdout",
+      "raw_data": "combining quantum emotional processing with neural dynamics",
+      "parsed_data": null,
+      "process_id": 9642,
+      "memory_usage": 667.15625,
+      "cpu_usage": 0.0
+    },
+    {
+      "script_name": "client",
+      "timestamp": "2025-08-17T09:56:44.225705",
+      "cycle": null,
+      "output_type": "stdout",
+      "raw_data": "",
+      "parsed_data": null,
+      "process_id": 9642,
+      "memory_usage": 667.15625,
+      "cpu_usage": 0.0
+    },
+    {
+      "script_name": "client",
+      "timestamp": "2025-08-17T09:56:44.225805",
+      "cycle": null,
+      "output_type": "stdout",
+      "raw_data": "\u26a1 Press Ctrl+C to stop and view results",
+      "parsed_data": null,
+      "process_id": 9642,
+      "memory_usage": 667.15625,
+      "cpu_usage": 0.0
+    },
+    {
+      "script_name": "client",
+      "timestamp": "2025-08-17T09:56:44.225904",
+      "cycle": null,
+      "output_type": "stdout",
+      "raw_data": "",
+      "parsed_data": null,
+      "process_id": 9642,
+      "memory_usage": 667.15625,
+      "cpu_usage": 0.0
+    },
+    {
+      "script_name": "client",
+      "timestamp": "2025-08-17T09:56:44.225999",
+      "cycle": null,
+      "output_type": "stdout",
+      "raw_data": "",
+      "parsed_data": null,
+      "process_id": 9642,
+      "memory_usage": 667.15625,
+      "cpu_usage": 0.0
+    },
+    {
+      "script_name": "client",
+      "timestamp": "2025-08-17T09:56:44.226100",
+      "cycle": null,
+      "output_type": "stdout",
+      "raw_data": "\ud83d\udd04 Cycle 1",
+      "parsed_data": null,
+      "process_id": 9642,
+      "memory_usage": 667.15625,
+      "cpu_usage": 0.0
+    },
+    {
+      "script_name": "client",
+      "timestamp": "2025-08-17T09:56:44.226199",
+      "cycle": null,
+      "output_type": "stdout",
+      "raw_data": "\ud83d\udd2e Initializing Quantum Sentiment Processor...",
+      "parsed_data": null,
+      "process_id": 9642,
+      "memory_usage": 667.15625,
+      "cpu_usage": 0.0
+    },
+    {
+      "script_name": "client",
+      "timestamp": "2025-08-17T09:56:44.239616",
+      "cycle": null,
+      "output_type": "stdout",
+      "raw_data": "\ud83d\udcca Classical \u2192 Host: 0.468, Mate: 0.714, Shared: 0.349",
+      "parsed_data": null,
+      "process_id": 9642,
+      "memory_usage": 667.765625,
+      "cpu_usage": 0.0
+    },
+    {
+      "script_name": "client",
+      "timestamp": "2025-08-17T09:56:44.239747",
+      "cycle": 1,
+      "output_type": "stdout",
+      "raw_data": "\u269b\ufe0f  Quantum   \u2192 Host: 0.288, Mate: 0.312, Shared: 0.224",
+      "parsed_data": {
+        "quantum_sentiment": {
+          "cycle": 1,
+          "classical_host": 0.468,
+          "classical_mate": 0.714,
+          "classical_shared": 0.349,
+          "quantum_host": 0.288,
+          "quantum_mate": 0.312,
+          "quantum_shared": 0.224,
+          "timestamp": "2025-08-17T09:56:44.239768",
+          "script_source": "client"
+        }
+      },
+      "process_id": 9642,
+      "memory_usage": 667.765625,
+      "cpu_usage": 0.0
+    },
+    {
+      "script_name": "model",
+      "timestamp": "2025-08-17T09:56:45.642708",
+      "cycle": 1,
+      "output_type": "stdout",
+      "raw_data": "",
+      "parsed_data": {
+        "quantum_sentiment": {
+          "cycle": 1,
+          "classical_host": 0.714,
+          "classical_mate": 0.733,
+          "classical_shared": 0.709,
+          "quantum_host": 0.376,
+          "quantum_mate": 0.328,
+          "quantum_shared": 0.24,
+          "timestamp": "2025-08-17T09:56:45.642759",
+          "script_source": "model"
+        }
+      },
+      "process_id": 9644,
+      "memory_usage": 670.08203125,
+      "cpu_usage": 0.0
+    },
+    {
+      "script_name": "model",
+      "timestamp": "2025-08-17T09:56:45.643436",
+      "cycle": 2,
+      "output_type": "stdout",
+      "raw_data": "\ud83d\udd04 Cycle 2",
+      "parsed_data": {
+        "quantum_sentiment": {
+          "cycle": 2,
+          "classical_host": 0.714,
+          "classical_mate": 0.733,
+          "classical_shared": 0.709,
+          "quantum_host": 0.376,
+          "quantum_mate": 0.328,
+          "quantum_shared": 0.24,
+          "timestamp": "2025-08-17T09:56:45.643461",
+          "script_source": "model"
+        }
+      },
+      "process_id": 9644,
+      "memory_usage": 670.08203125,
+      "cpu_usage": 0.0
+    },
+    {
+      "script_name": "model",
+      "timestamp": "2025-08-17T09:56:45.643570",
+      "cycle": 2,
+      "output_type": "stdout",
+      "raw_data": "\ud83d\udd2e Initializing Quantum Sentiment Processor...",
+      "parsed_data": {
+        "quantum_sentiment": {
+          "cycle": 2,
+          "classical_host": 0.714,
+          "classical_mate": 0.733,
+          "classical_shared": 0.709,
+          "quantum_host": 0.376,
+          "quantum_mate": 0.328,
+          "quantum_shared": 0.24,
+          "timestamp": "2025-08-17T09:56:45.643591",
+          "script_source": "model"
+        }
+      },
+      "process_id": 9644,
+      "memory_usage": 670.08203125,
+      "cpu_usage": 0.0
+    },
+    {
+      "script_name": "model",
+      "timestamp": "2025-08-17T09:56:45.649616",
+      "cycle": 2,
+      "output_type": "stdout",
+      "raw_data": "\ud83d\udcca Classical \u2192 Host: 0.584, Mate: 0.697, Shared: 0.317",
+      "parsed_data": {
+        "quantum_sentiment": {
+          "cycle": 2,
+          "classical_host": 0.584,
+          "classical_mate": 0.697,
+          "classical_shared": 0.317,
+          "quantum_host": 0.376,
+          "quantum_mate": 0.328,
+          "quantum_shared": 0.24,
+          "timestamp": "2025-08-17T09:56:45.649682",
+          "script_source": "model"
+        }
+      },
+      "process_id": 9644,
+      "memory_usage": 670.08203125,
+      "cpu_usage": 0.0
+    },
+    {
+      "script_name": "model",
+      "timestamp": "2025-08-17T09:56:45.650015",
+      "cycle": 2,
+      "output_type": "stdout",
+      "raw_data": "\u269b\ufe0f  Quantum   \u2192 Host: 0.264, Mate: 0.320, Shared: 0.280",
+      "parsed_data": {
+        "quantum_sentiment": {
+          "cycle": 2,
+          "classical_host": 0.584,
+          "classical_mate": 0.697,
+          "classical_shared": 0.317,
+          "quantum_host": 0.264,
+          "quantum_mate": 0.32,
+          "quantum_shared": 0.28,
+          "timestamp": "2025-08-17T09:56:45.650041",
+          "script_source": "model"
+        }
+      },
+      "process_id": 9644,
+      "memory_usage": 670.08203125,
+      "cpu_usage": 0.0
+    },
+    {
+      "script_name": "cookie",
+      "timestamp": "2025-08-17T09:56:45.746254",
+      "cycle": 1,
+      "output_type": "stdout",
+      "raw_data": "",
+      "parsed_data": {
+        "quantum_sentiment": {
+          "cycle": 1,
+          "classical_host": 0.562,
+          "classical_mate": 0.71,
+          "classical_shared": 0.603,
+          "quantum_host": 0.272,
+          "quantum_mate": 0.288,
+          "quantum_shared": 0.216,
+          "timestamp": "2025-08-17T09:56:45.746305",
+          "script_source": "cookie"
+        }
+      },
+      "process_id": 9640,
+      "memory_usage": 669.1171875,
+      "cpu_usage": 0.0
+    },
+    {
+      "script_name": "cookie",
+      "timestamp": "2025-08-17T09:56:45.746454",
+      "cycle": 2,
+      "output_type": "stdout",
+      "raw_data": "\ud83d\udd04 Cycle 2",
+      "parsed_data": {
+        "quantum_sentiment": {
+          "cycle": 2,
+          "classical_host": 0.562,
+          "classical_mate": 0.71,
+          "classical_shared": 0.603,
+          "quantum_host": 0.272,
+          "quantum_mate": 0.288,
+          "quantum_shared": 0.216,
+          "timestamp": "2025-08-17T09:56:45.746483",
+          "script_source": "cookie"
+        }
+      },
+      "process_id": 9640,
+      "memory_usage": 669.1171875,
+      "cpu_usage": 0.0
+    },
+    {
+      "script_name": "cookie",
+      "timestamp": "2025-08-17T09:56:45.746617",
+      "cycle": 2,
+      "output_type": "stdout",
+      "raw_data": "\ud83d\udd2e Initializing Quantum Sentiment Processor...",
+      "parsed_data": {
+        "quantum_sentiment": {
+          "cycle": 2,
+          "classical_host": 0.562,
+          "classical_mate": 0.71,
+          "classical_shared": 0.603,
+          "quantum_host": 0.272,
+          "quantum_mate": 0.288,
+          "quantum_shared": 0.216,
+          "timestamp": "2025-08-17T09:56:45.746639",
+          "script_source": "cookie"
+        }
+      },
+      "process_id": 9640,
+      "memory_usage": 669.1171875,
+      "cpu_usage": 0.0
+    },
+    {
+      "script_name": "cookie",
+      "timestamp": "2025-08-17T09:56:45.748042",
+      "cycle": 2,
+      "output_type": "stdout",
+      "raw_data": "\ud83d\udcca Classical \u2192 Host: 0.540, Mate: 0.535, Shared: 0.261",
+      "parsed_data": {
+        "quantum_sentiment": {
+          "cycle": 2,
+          "classical_host": 0.54,
+          "classical_mate": 0.535,
+          "classical_shared": 0.261,
+          "quantum_host": 0.272,
+          "quantum_mate": 0.288,
+          "quantum_shared": 0.216,
+          "timestamp": "2025-08-17T09:56:45.748071",
+          "script_source": "cookie"
+        }
+      },
+      "process_id": 9640,
+      "memory_usage": 669.1171875,
+      "cpu_usage": 0.0
+    },
+    {
+      "script_name": "cookie",
+      "timestamp": "2025-08-17T09:56:45.748185",
+      "cycle": 2,
+      "output_type": "stdout",
+      "raw_data": "\u269b\ufe0f  Quantum   \u2192 Host: 0.200, Mate: 0.256, Shared: 0.256",
+      "parsed_data": {
+        "quantum_sentiment": {
+          "cycle": 2,
+          "classical_host": 0.54,
+          "classical_mate": 0.535,
+          "classical_shared": 0.261,
+          "quantum_host": 0.2,
+          "quantum_mate": 0.256,
+          "quantum_shared": 0.256,
+          "timestamp": "2025-08-17T09:56:45.748209",
+          "script_source": "cookie"
+        }
+      },
+      "process_id": 9640,
+      "memory_usage": 669.1171875,
+      "cpu_usage": 0.0
+    },
+    {
+      "script_name": "client",
+      "timestamp": "2025-08-17T09:56:46.045403",
+      "cycle": 1,
+      "output_type": "stdout",
+      "raw_data": "",
+      "parsed_data": {
+        "quantum_sentiment": {
+          "cycle": 1,
+          "classical_host": 0.468,
+          "classical_mate": 0.714,
+          "classical_shared": 0.349,
+          "quantum_host": 0.288,
+          "quantum_mate": 0.312,
+          "quantum_shared": 0.224,
+          "timestamp": "2025-08-17T09:56:46.045447",
+          "script_source": "client"
+        }
+      },
+      "process_id": 9642,
+      "memory_usage": 668.140625,
+      "cpu_usage": 0.0
+    },
+    {
+      "script_name": "client",
+      "timestamp": "2025-08-17T09:56:46.046021",
+      "cycle": 2,
+      "output_type": "stdout",
+      "raw_data": "\ud83d\udd04 Cycle 2",
+      "parsed_data": {
+        "quantum_sentiment": {
+          "cycle": 2,
+          "classical_host": 0.468,
+          "classical_mate": 0.714,
+          "classical_shared": 0.349,
+          "quantum_host": 0.288,
+          "quantum_mate": 0.312,
+          "quantum_shared": 0.224,
+          "timestamp": "2025-08-17T09:56:46.046055",
+          "script_source": "client"
+        }
+      },
+      "process_id": 9642,
+      "memory_usage": 668.140625,
+      "cpu_usage": 0.0
+    },
+    {
+      "script_name": "client",
+      "timestamp": "2025-08-17T09:56:46.046175",
+      "cycle": 2,
+      "output_type": "stdout",
+      "raw_data": "\ud83d\udd2e Initializing Quantum Sentiment Processor...",
+      "parsed_data": {
+        "quantum_sentiment": {
+          "cycle": 2,
+          "classical_host": 0.468,
+          "classical_mate": 0.714,
+          "classical_shared": 0.349,
+          "quantum_host": 0.288,
+          "quantum_mate": 0.312,
+          "quantum_shared": 0.224,
+          "timestamp": "2025-08-17T09:56:46.046196",
+          "script_source": "client"
+        }
+      },
+      "process_id": 9642,
+      "memory_usage": 668.140625,
+      "cpu_usage": 0.0
+    },
+    {
+      "script_name": "client",
+      "timestamp": "2025-08-17T09:56:46.046349",
+      "cycle": 2,
+      "output_type": "stdout",
+      "raw_data": "\ud83d\udcca Classical \u2192 Host: 0.536, Mate: 0.509, Shared: 0.606",
+      "parsed_data": {
+        "quantum_sentiment": {
+          "cycle": 2,
+          "classical_host": 0.536,
+          "classical_mate": 0.509,
+          "classical_shared": 0.606,
+          "quantum_host": 0.288,
+          "quantum_mate": 0.312,
+          "quantum_shared": 0.224,
+          "timestamp": "2025-08-17T09:56:46.046373",
+          "script_source": "client"
+        }
+      },
+      "process_id": 9642,
+      "memory_usage": 668.140625,
+      "cpu_usage": 0.0
+    },
+    {
+      "script_name": "client",
+      "timestamp": "2025-08-17T09:56:46.046473",
+      "cycle": 2,
+      "output_type": "stdout",
+      "raw_data": "\u269b\ufe0f  Quantum   \u2192 Host: 0.208, Mate: 0.240, Shared: 0.240",
+      "parsed_data": {
+        "quantum_sentiment": {
+          "cycle": 2,
+          "classical_host": 0.536,
+          "classical_mate": 0.509,
+          "classical_shared": 0.606,
+          "quantum_host": 0.208,
+          "quantum_mate": 0.24,
+          "quantum_shared": 0.24,
+          "timestamp": "2025-08-17T09:56:46.046495",
+          "script_source": "client"
+        }
+      },
+      "process_id": 9642,
+      "memory_usage": 668.140625,
+      "cpu_usage": 0.0
+    },
+    {
+      "script_name": "model",
+      "timestamp": "2025-08-17T09:56:47.385110",
+      "cycle": 2,
+      "output_type": "stdout",
+      "raw_data": "",
+      "parsed_data": {
+        "quantum_sentiment": {
+          "cycle": 2,
+          "classical_host": 0.584,
+          "classical_mate": 0.697,
+          "classical_shared": 0.317,
+          "quantum_host": 0.264,
+          "quantum_mate": 0.32,
+          "quantum_shared": 0.28,
+          "timestamp": "2025-08-17T09:56:47.385161",
+          "script_source": "model"
+        }
+      },
+      "process_id": 9644,
+      "memory_usage": 670.08203125,
+      "cpu_usage": 0.0
+    },
+    {
+      "script_name": "model",
+      "timestamp": "2025-08-17T09:56:47.385790",
+      "cycle": 3,
+      "output_type": "stdout",
+      "raw_data": "\ud83d\udd04 Cycle 3",
+      "parsed_data": {
+        "quantum_sentiment": {
+          "cycle": 3,
+          "classical_host": 0.584,
+          "classical_mate": 0.697,
+          "classical_shared": 0.317,
+          "quantum_host": 0.264,
+          "quantum_mate": 0.32,
+          "quantum_shared": 0.28,
+          "timestamp": "2025-08-17T09:56:47.385831",
+          "script_source": "model"
+        }
+      },
+      "process_id": 9644,
+      "memory_usage": 670.08203125,
+      "cpu_usage": 0.0
+    },
+    {
+      "script_name": "model",
+      "timestamp": "2025-08-17T09:56:47.385958",
+      "cycle": 3,
+      "output_type": "stdout",
+      "raw_data": "\ud83d\udd2e Initializing Quantum Sentiment Processor...",
+      "parsed_data": {
+        "quantum_sentiment": {
+          "cycle": 3,
+          "classical_host": 0.584,
+          "classical_mate": 0.697,
+          "classical_shared": 0.317,
+          "quantum_host": 0.264,
+          "quantum_mate": 0.32,
+          "quantum_shared": 0.28,
+          "timestamp": "2025-08-17T09:56:47.385984",
+          "script_source": "model"
+        }
+      },
+      "process_id": 9644,
+      "memory_usage": 670.08203125,
+      "cpu_usage": 0.0
+    },
+    {
+      "script_name": "model",
+      "timestamp": "2025-08-17T09:56:47.388241",
+      "cycle": 3,
+      "output_type": "stdout",
+      "raw_data": "\ud83d\udcca Classical \u2192 Host: 0.561, Mate: 0.769, Shared: 0.534",
+      "parsed_data": {
+        "quantum_sentiment": {
+          "cycle": 3,
+          "classical_host": 0.561,
+          "classical_mate": 0.769,
+          "classical_shared": 0.534,
+          "quantum_host": 0.264,
+          "quantum_mate": 0.32,
+          "quantum_shared": 0.28,
+          "timestamp": "2025-08-17T09:56:47.388270",
+          "script_source": "model"
+        }
+      },
+      "process_id": 9644,
+      "memory_usage": 670.08203125,
+      "cpu_usage": 0.0
+    },
+    {
+      "script_name": "model",
+      "timestamp": "2025-08-17T09:56:47.388380",
+      "cycle": 3,
+      "output_type": "stdout",
+      "raw_data": "\u269b\ufe0f  Quantum   \u2192 Host: 0.424, Mate: 0.416, Shared: 0.208",
+      "parsed_data": {
+        "quantum_sentiment": {
+          "cycle": 3,
+          "classical_host": 0.561,
+          "classical_mate": 0.769,
+          "classical_shared": 0.534,
+          "quantum_host": 0.424,
+          "quantum_mate": 0.416,
+          "quantum_shared": 0.208,
+          "timestamp": "2025-08-17T09:56:47.388403",
+          "script_source": "model"
+        }
+      },
+      "process_id": 9644,
+      "memory_usage": 670.08203125,
+      "cpu_usage": 0.0
+    },
+    {
+      "script_name": "cookie",
+      "timestamp": "2025-08-17T09:56:47.524299",
+      "cycle": 2,
+      "output_type": "stdout",
+      "raw_data": "",
+      "parsed_data": {
+        "quantum_sentiment": {
+          "cycle": 2,
+          "classical_host": 0.54,
+          "classical_mate": 0.535,
+          "classical_shared": 0.261,
+          "quantum_host": 0.2,
+          "quantum_mate": 0.256,
+          "quantum_shared": 0.256,
+          "timestamp": "2025-08-17T09:56:47.524348",
+          "script_source": "cookie"
+        }
+      },
+      "process_id": 9640,
+      "memory_usage": 669.1171875,
+      "cpu_usage": 0.0
+    },
+    {
+      "script_name": "cookie",
+      "timestamp": "2025-08-17T09:56:47.524488",
+      "cycle": 3,
+      "output_type": "stdout",
+      "raw_data": "\ud83d\udd04 Cycle 3",
+      "parsed_data": {
+        "quantum_sentiment": {
+          "cycle": 3,
+          "classical_host": 0.54,
+          "classical_mate": 0.535,
+          "classical_shared": 0.261,
+          "quantum_host": 0.2,
+          "quantum_mate": 0.256,
+          "quantum_shared": 0.256,
+          "timestamp": "2025-08-17T09:56:47.524516",
+          "script_source": "cookie"
+        }
+      },
+      "process_id": 9640,
+      "memory_usage": 669.1171875,
+      "cpu_usage": 0.0
+    },
+    {
+      "script_name": "cookie",
+      "timestamp": "2025-08-17T09:56:47.524629",
+      "cycle": 3,
+      "output_type": "stdout",
+      "raw_data": "\ud83d\udd2e Initializing Quantum Sentiment Processor...",
+      "parsed_data": {
+        "quantum_sentiment": {
+          "cycle": 3,
+          "classical_host": 0.54,
+          "classical_mate": 0.535,
+          "classical_shared": 0.261,
+          "quantum_host": 0.2,
+          "quantum_mate": 0.256,
+          "quantum_shared": 0.256,
+          "timestamp": "2025-08-17T09:56:47.524653",
+          "script_source": "cookie"
+        }
+      },
+      "process_id": 9640,
+      "memory_usage": 669.1171875,
+      "cpu_usage": 0.0
+    },
+    {
+      "script_name": "cookie",
+      "timestamp": "2025-08-17T09:56:47.532113",
+      "cycle": 3,
+      "output_type": "stdout",
+      "raw_data": "\ud83d\udcca Classical \u2192 Host: 0.710, Mate: 0.517, Shared: 0.342",
+      "parsed_data": {
+        "quantum_sentiment": {
+          "cycle": 3,
+          "classical_host": 0.71,
+          "classical_mate": 0.517,
+          "classical_shared": 0.342,
+          "quantum_host": 0.2,
+          "quantum_mate": 0.256,
+          "quantum_shared": 0.256,
+          "timestamp": "2025-08-17T09:56:47.532144",
+          "script_source": "cookie"
+        }
+      },
+      "process_id": 9640,
+      "memory_usage": 669.1171875,
+      "cpu_usage": 0.0
+    },
+    {
+      "script_name": "cookie",
+      "timestamp": "2025-08-17T09:56:47.532334",
+      "cycle": 3,
+      "output_type": "stdout",
+      "raw_data": "\u269b\ufe0f  Quantum   \u2192 Host: 0.296, Mate: 0.248, Shared: 0.248",
+      "parsed_data": {
+        "quantum_sentiment": {
+          "cycle": 3,
+          "classical_host": 0.71,
+          "classical_mate": 0.517,
+          "classical_shared": 0.342,
+          "quantum_host": 0.296,
+          "quantum_mate": 0.248,
+          "quantum_shared": 0.248,
+          "timestamp": "2025-08-17T09:56:47.532359",
+          "script_source": "cookie"
+        }
+      },
+      "process_id": 9640,
+      "memory_usage": 669.1171875,
+      "cpu_usage": 0.0
+    },
+    {
+      "script_name": "client",
+      "timestamp": "2025-08-17T09:56:48.402767",
+      "cycle": 2,
+      "output_type": "stdout",
+      "raw_data": "",
+      "parsed_data": {
+        "quantum_sentiment": {
+          "cycle": 2,
+          "classical_host": 0.536,
+          "classical_mate": 0.509,
+          "classical_shared": 0.606,
+          "quantum_host": 0.208,
+          "quantum_mate": 0.24,
+          "quantum_shared": 0.24,
+          "timestamp": "2025-08-17T09:56:48.402817",
+          "script_source": "client"
+        }
+      },
+      "process_id": 9642,
+      "memory_usage": 668.140625,
+      "cpu_usage": 0.0
+    },
+    {
+      "script_name": "client",
+      "timestamp": "2025-08-17T09:56:48.402963",
+      "cycle": 3,
+      "output_type": "stdout",
+      "raw_data": "\ud83d\udd04 Cycle 3",
+      "parsed_data": {
+        "quantum_sentiment": {
+          "cycle": 3,
+          "classical_host": 0.536,
+          "classical_mate": 0.509,
+          "classical_shared": 0.606,
+          "quantum_host": 0.208,
+          "quantum_mate": 0.24,
+          "quantum_shared": 0.24,
+          "timestamp": "2025-08-17T09:56:48.402991",
+          "script_source": "client"
+        }
+      },
+      "process_id": 9642,
+      "memory_usage": 668.140625,
+      "cpu_usage": 0.0
+    },
+    {
+      "script_name": "client",
+      "timestamp": "2025-08-17T09:56:48.403096",
+      "cycle": 3,
+      "output_type": "stdout",
+      "raw_data": "\ud83d\udd2e Initializing Quantum Sentiment Processor...",
+      "parsed_data": {
+        "quantum_sentiment": {
+          "cycle": 3,
+          "classical_host": 0.536,
+          "classical_mate": 0.509,
+          "classical_shared": 0.606,
+          "quantum_host": 0.208,
+          "quantum_mate": 0.24,
+          "quantum_shared": 0.24,
+          "timestamp": "2025-08-17T09:56:48.403120",
+          "script_source": "client"
+        }
+      },
+      "process_id": 9642,
+      "memory_usage": 668.140625,
+      "cpu_usage": 0.0
+    },
+    {
+      "script_name": "client",
+      "timestamp": "2025-08-17T09:56:48.403762",
+      "cycle": 3,
+      "output_type": "stdout",
+      "raw_data": "\ud83d\udcca Classical \u2192 Host: 0.786, Mate: 0.485, Shared: 0.733",
+      "parsed_data": {
+        "quantum_sentiment": {
+          "cycle": 3,
+          "classical_host": 0.786,
+          "classical_mate": 0.485,
+          "classical_shared": 0.733,
+          "quantum_host": 0.208,
+          "quantum_mate": 0.24,
+          "quantum_shared": 0.24,
+          "timestamp": "2025-08-17T09:56:48.403793",
+          "script_source": "client"
+        }
+      },
+      "process_id": 9642,
+      "memory_usage": 668.140625,
+      "cpu_usage": 0.0
+    },
+    {
+      "script_name": "client",
+      "timestamp": "2025-08-17T09:56:48.403902",
+      "cycle": 3,
+      "output_type": "stdout",
+      "raw_data": "\u269b\ufe0f  Quantum   \u2192 Host: 0.456, Mate: 0.344, Shared: 0.344",
+      "parsed_data": {
+        "quantum_sentiment": {
+          "cycle": 3,
+          "classical_host": 0.786,
+          "classical_mate": 0.485,
+          "classical_shared": 0.733,
+          "quantum_host": 0.456,
+          "quantum_mate": 0.344,
+          "quantum_shared": 0.344,
+          "timestamp": "2025-08-17T09:56:48.403926",
+          "script_source": "client"
+        }
+      },
+      "process_id": 9642,
+      "memory_usage": 668.140625,
+      "cpu_usage": 0.0
+    },
+    {
+      "script_name": "model",
+      "timestamp": "2025-08-17T09:56:49.017444",
+      "cycle": 3,
+      "output_type": "stdout",
+      "raw_data": "",
+      "parsed_data": {
+        "quantum_sentiment": {
+          "cycle": 3,
+          "classical_host": 0.561,
+          "classical_mate": 0.769,
+          "classical_shared": 0.534,
+          "quantum_host": 0.424,
+          "quantum_mate": 0.416,
+          "quantum_shared": 0.208,
+          "timestamp": "2025-08-17T09:56:49.017495",
+          "script_source": "model"
+        }
+      },
+      "process_id": 9644,
+      "memory_usage": 670.08203125,
+      "cpu_usage": 0.0
+    },
+    {
+      "script_name": "model",
+      "timestamp": "2025-08-17T09:56:49.019262",
+      "cycle": 4,
+      "output_type": "stdout",
+      "raw_data": "\ud83d\udd04 Cycle 4",
+      "parsed_data": {
+        "quantum_sentiment": {
+          "cycle": 4,
+          "classical_host": 0.561,
+          "classical_mate": 0.769,
+          "classical_shared": 0.534,
+          "quantum_host": 0.424,
+          "quantum_mate": 0.416,
+          "quantum_shared": 0.208,
+          "timestamp": "2025-08-17T09:56:49.019290",
+          "script_source": "model"
+        }
+      },
+      "process_id": 9644,
+      "memory_usage": 670.08203125,
+      "cpu_usage": 0.0
+    },
+    {
+      "script_name": "model",
+      "timestamp": "2025-08-17T09:56:49.019399",
+      "cycle": 4,
+      "output_type": "stdout",
+      "raw_data": "\ud83d\udd2e Initializing Quantum Sentiment Processor...",
+      "parsed_data": {
+        "quantum_sentiment": {
+          "cycle": 4,
+          "classical_host": 0.561,
+          "classical_mate": 0.769,
+          "classical_shared": 0.534,
+          "quantum_host": 0.424,
+          "quantum_mate": 0.416,
+          "quantum_shared": 0.208,
+          "timestamp": "2025-08-17T09:56:49.019422",
+          "script_source": "model"
+        }
+      },
+      "process_id": 9644,
+      "memory_usage": 670.08203125,
+      "cpu_usage": 0.0
+    },
+    {
+      "script_name": "model",
+      "timestamp": "2025-08-17T09:56:49.019517",
+      "cycle": 4,
+      "output_type": "stdout",
+      "raw_data": "\ud83d\udcca Classical \u2192 Host: 0.633, Mate: 0.588, Shared: 0.293",
+      "parsed_data": {
+        "quantum_sentiment": {
+          "cycle": 4,
+          "classical_host": 0.633,
+          "classical_mate": 0.588,
+          "classical_shared": 0.293,
+          "quantum_host": 0.424,
+          "quantum_mate": 0.416,
+          "quantum_shared": 0.208,
+          "timestamp": "2025-08-17T09:56:49.019539",
+          "script_source": "model"
+        }
+      },
+      "process_id": 9644,
+      "memory_usage": 670.08203125,
+      "cpu_usage": 0.0
+    },
+    {
+      "script_name": "model",
+      "timestamp": "2025-08-17T09:56:49.019638",
+      "cycle": 4,
+      "output_type": "stdout",
+      "raw_data": "\u269b\ufe0f  Quantum   \u2192 Host: 0.264, Mate: 0.328, Shared: 0.320",
+      "parsed_data": {
+        "quantum_sentiment": {
+          "cycle": 4,
+          "classical_host": 0.633,
+          "classical_mate": 0.588,
+          "classical_shared": 0.293,
+          "quantum_host": 0.264,
+          "quantum_mate": 0.328,
+          "quantum_shared": 0.32,
+          "timestamp": "2025-08-17T09:56:49.019659",
+          "script_source": "model"
+        }
+      },
+      "process_id": 9644,
+      "memory_usage": 670.08203125,
+      "cpu_usage": 0.0
+    },
+    {
+      "script_name": "cookie",
+      "timestamp": "2025-08-17T09:56:49.383966",
+      "cycle": 3,
+      "output_type": "stdout",
+      "raw_data": "",
+      "parsed_data": {
+        "quantum_sentiment": {
+          "cycle": 3,
+          "classical_host": 0.71,
+          "classical_mate": 0.517,
+          "classical_shared": 0.342,
+          "quantum_host": 0.296,
+          "quantum_mate": 0.248,
+          "quantum_shared": 0.248,
+          "timestamp": "2025-08-17T09:56:49.384016",
+          "script_source": "cookie"
+        }
+      },
+      "process_id": 9640,
+      "memory_usage": 669.1171875,
+      "cpu_usage": 0.0
+    },
+    {
+      "script_name": "cookie",
+      "timestamp": "2025-08-17T09:56:49.384151",
+      "cycle": 4,
+      "output_type": "stdout",
+      "raw_data": "\ud83d\udd04 Cycle 4",
+      "parsed_data": {
+        "quantum_sentiment": {
+          "cycle": 4,
+          "classical_host": 0.71,
+          "classical_mate": 0.517,
+          "classical_shared": 0.342,
+          "quantum_host": 0.296,
+          "quantum_mate": 0.248,
+          "quantum_shared": 0.248,
+          "timestamp": "2025-08-17T09:56:49.384174",
+          "script_source": "cookie"
+        }
+      },
+      "process_id": 9640,
+      "memory_usage": 669.1171875,
+      "cpu_usage": 0.0
+    },
+    {
+      "script_name": "cookie",
+      "timestamp": "2025-08-17T09:56:49.384276",
+      "cycle": 4,
+      "output_type": "stdout",
+      "raw_data": "\ud83d\udd2e Initializing Quantum Sentiment Processor...",
+      "parsed_data": {
+        "quantum_sentiment": {
+          "cycle": 4,
+          "classical_host": 0.71,
+          "classical_mate": 0.517,
+          "classical_shared": 0.342,
+          "quantum_host": 0.296,
+          "quantum_mate": 0.248,
+          "quantum_shared": 0.248,
+          "timestamp": "2025-08-17T09:56:49.384299",
+          "script_source": "cookie"
+        }
+      },
+      "process_id": 9640,
+      "memory_usage": 669.1171875,
+      "cpu_usage": 0.0
+    },
+    {
+      "script_name": "cookie",
+      "timestamp": "2025-08-17T09:56:49.384391",
+      "cycle": 4,
+      "output_type": "stdout",
+      "raw_data": "\ud83d\udcca Classical \u2192 Host: 0.518, Mate: 0.561, Shared: 0.641",
+      "parsed_data": {
+        "quantum_sentiment": {
+          "cycle": 4,
+          "classical_host": 0.518,
+          "classical_mate": 0.561,
+          "classical_shared": 0.641,
+          "quantum_host": 0.296,
+          "quantum_mate": 0.248,
+          "quantum_shared": 0.248,
+          "timestamp": "2025-08-17T09:56:49.384412",
+          "script_source": "cookie"
+        }
+      },
+      "process_id": 9640,
+      "memory_usage": 669.1171875,
+      "cpu_usage": 0.0
+    },
+    {
+      "script_name": "cookie",
+      "timestamp": "2025-08-17T09:56:49.384508",
+      "cycle": 4,
+      "output_type": "stdout",
+      "raw_data": "\u269b\ufe0f  Quantum   \u2192 Host: 0.208, Mate: 0.256, Shared: 0.248",
+      "parsed_data": {
+        "quantum_sentiment": {
+          "cycle": 4,
+          "classical_host": 0.518,
+          "classical_mate": 0.561,
+          "classical_shared": 0.641,
+          "quantum_host": 0.208,
+          "quantum_mate": 0.256,
+          "quantum_shared": 0.248,
+          "timestamp": "2025-08-17T09:56:49.384530",
+          "script_source": "cookie"
+        }
+      },
+      "process_id": 9640,
+      "memory_usage": 669.1171875,
+      "cpu_usage": 0.0
+    },
+    {
+      "script_name": "cookie",
+      "timestamp": "2025-08-17T09:56:49.464739",
+      "cycle": 4,
+      "output_type": "stdout",
+      "raw_data": "",
+      "parsed_data": {
+        "quantum_sentiment": {
+          "cycle": 4,
+          "classical_host": 0.518,
+          "classical_mate": 0.561,
+          "classical_shared": 0.641,
+          "quantum_host": 0.208,
+          "quantum_mate": 0.256,
+          "quantum_shared": 0.248,
+          "timestamp": "2025-08-17T09:56:49.464790",
+          "script_source": "cookie"
+        }
+      },
+      "process_id": 9640,
+      "memory_usage": 669.3671875,
+      "cpu_usage": 0.0
+    },
+    {
+      "script_name": "cookie",
+      "timestamp": "2025-08-17T09:56:49.464924",
+      "cycle": 4,
+      "output_type": "stdout",
+      "raw_data": "\u23f9 Simulation stopped by user.",
+      "parsed_data": {
+        "quantum_sentiment": {
+          "cycle": 4,
+          "classical_host": 0.518,
+          "classical_mate": 0.561,
+          "classical_shared": 0.641,
+          "quantum_host": 0.208,
+          "quantum_mate": 0.256,
+          "quantum_shared": 0.248,
+          "timestamp": "2025-08-17T09:56:49.464948",
+          "script_source": "cookie"
+        }
+      },
+      "process_id": 9640,
+      "memory_usage": 669.3671875,
+      "cpu_usage": 0.0
+    }
+  ]
+}

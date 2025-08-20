@@ -1,0 +1,362 @@
+{
+  "metadata": {
+    "export_timestamp": "2025-08-17T09:59:59.108773",
+    "total_outputs": 31,
+    "scripts_monitored": [
+      "model",
+      "heart",
+      "brian",
+      "blockheart"
+    ],
+    "statistics": {
+      "total_outputs": 31,
+      "scripts_monitored": 4,
+      "quantum_cycles_detected": 0,
+      "training_epochs_detected": 0,
+      "errors_encountered": 0
+    }
+  },
+  "outputs": [
+    {
+      "script_name": "brian",
+      "timestamp": "2025-08-17T09:59:50.044828",
+      "cycle": null,
+      "output_type": "stdout",
+      "raw_data": "",
+      "parsed_data": null,
+      "process_id": 9860,
+      "memory_usage": 124.7578125,
+      "cpu_usage": 0.0
+    },
+    {
+      "script_name": "brian",
+      "timestamp": "2025-08-17T09:59:50.046319",
+      "cycle": null,
+      "output_type": "stdout",
+      "raw_data": "Welcome to Neuralink!",
+      "parsed_data": null,
+      "process_id": 9860,
+      "memory_usage": 124.7578125,
+      "cpu_usage": 0.0
+    },
+    {
+      "script_name": "brian",
+      "timestamp": "2025-08-17T09:59:50.046417",
+      "cycle": null,
+      "output_type": "stdout",
+      "raw_data": ".",
+      "parsed_data": null,
+      "process_id": 9860,
+      "memory_usage": 124.7578125,
+      "cpu_usage": 0.0
+    },
+    {
+      "script_name": "brian",
+      "timestamp": "2025-08-17T09:59:50.046534",
+      "cycle": null,
+      "output_type": "stdout",
+      "raw_data": "! r,|`",
+      "parsed_data": null,
+      "process_id": 9860,
+      "memory_usage": 124.7578125,
+      "cpu_usage": 0.0
+    },
+    {
+      "script_name": "brian",
+      "timestamp": "2025-08-17T09:59:50.046631",
+      "cycle": null,
+      "output_type": "stdout",
+      "raw_data": "]r'|",
+      "parsed_data": null,
+      "process_id": 9860,
+      "memory_usage": 124.7578125,
+      "cpu_usage": 0.0
+    },
+    {
+      "script_name": "brian",
+      "timestamp": "2025-08-17T09:59:50.046717",
+      "cycle": null,
+      "output_type": "stdout",
+      "raw_data": "_gggg$g_",
+      "parsed_data": null,
+      "process_id": 9860,
+      "memory_usage": 124.7578125,
+      "cpu_usage": 0.0
+    },
+    {
+      "script_name": "brian",
+      "timestamp": "2025-08-17T09:59:50.046803",
+      "cycle": null,
+      "output_type": "stdout",
+      "raw_data": "`,zzm$MMMMMM$mz'~'",
+      "parsed_data": null,
+      "process_id": 9860,
+      "memory_usage": 124.7578125,
+      "cpu_usage": 0.0
+    },
+    {
+      "script_name": "brian",
+      "timestamp": "2025-08-17T09:59:50.046889",
+      "cycle": null,
+      "output_type": "stdout",
+      "raw_data": "' ~~~~$MWCPUM$@~~~",
+      "parsed_data": null,
+      "process_id": 9860,
+      "memory_usage": 124.7578125,
+      "cpu_usage": 0.0
+    },
+    {
+      "script_name": "brian",
+      "timestamp": "2025-08-17T09:59:50.046976",
+      "cycle": null,
+      "output_type": "stdout",
+      "raw_data": ".`-+$MMMMMM$+-`..",
+      "parsed_data": null,
+      "process_id": 9860,
+      "memory_usage": 124.7578125,
+      "cpu_usage": 0.0
+    },
+    {
+      "script_name": "brian",
+      "timestamp": "2025-08-17T09:59:50.047063",
+      "cycle": null,
+      "output_type": "stdout",
+      "raw_data": "*$FQTP",
+      "parsed_data": null,
+      "process_id": 9860,
+      "memory_usage": 124.7578125,
+      "cpu_usage": 0.0
+    },
+    {
+      "script_name": "brian",
+      "timestamp": "2025-08-17T09:59:50.047152",
+      "cycle": null,
+      "output_type": "stdout",
+      "raw_data": "1r |.",
+      "parsed_data": null,
+      "process_id": 9860,
+      "memory_usage": 124.7578125,
+      "cpu_usage": 0.0
+    },
+    {
+      "script_name": "brian",
+      "timestamp": "2025-08-17T09:59:50.047241",
+      "cycle": null,
+      "output_type": "stdout",
+      "raw_data": "|'L\" |",
+      "parsed_data": null,
+      "process_id": 9860,
+      "memory_usage": 124.7578125,
+      "cpu_usage": 0.0
+    },
+    {
+      "script_name": "brian",
+      "timestamp": "2025-08-17T09:59:50.047330",
+      "cycle": null,
+      "output_type": "stdout",
+      "raw_data": "'",
+      "parsed_data": null,
+      "process_id": 9860,
+      "memory_usage": 124.7578125,
+      "cpu_usage": 0.0
+    },
+    {
+      "script_name": "brian",
+      "timestamp": "2025-08-17T09:59:50.047418",
+      "cycle": null,
+      "output_type": "stdout",
+      "raw_data": "",
+      "parsed_data": null,
+      "process_id": 9860,
+      "memory_usage": 124.7578125,
+      "cpu_usage": 0.0
+    },
+    {
+      "script_name": "brian",
+      "timestamp": "2025-08-17T09:59:50.048588",
+      "cycle": null,
+      "output_type": "stdout",
+      "raw_data": "INFO|2025-08-17 09:59:50,043|neuralink|__init__.py|<module>|20: Installing Neuralink Version: 0.0.1",
+      "parsed_data": null,
+      "process_id": 9860,
+      "memory_usage": 124.7578125,
+      "cpu_usage": 0.0
+    },
+    {
+      "script_name": "model",
+      "timestamp": "2025-08-17T09:59:57.885765",
+      "cycle": null,
+      "output_type": "stdout",
+      "raw_data": "",
+      "parsed_data": null,
+      "process_id": 9856,
+      "memory_usage": 645.640625,
+      "cpu_usage": 0.0
+    },
+    {
+      "script_name": "model",
+      "timestamp": "2025-08-17T09:59:57.885895",
+      "cycle": null,
+      "output_type": "stdout",
+      "raw_data": "Welcome to Neuralink!",
+      "parsed_data": null,
+      "process_id": 9856,
+      "memory_usage": 645.640625,
+      "cpu_usage": 0.0
+    },
+    {
+      "script_name": "model",
+      "timestamp": "2025-08-17T09:59:57.885987",
+      "cycle": null,
+      "output_type": "stdout",
+      "raw_data": ".",
+      "parsed_data": null,
+      "process_id": 9856,
+      "memory_usage": 645.640625,
+      "cpu_usage": 0.0
+    },
+    {
+      "script_name": "model",
+      "timestamp": "2025-08-17T09:59:57.886071",
+      "cycle": null,
+      "output_type": "stdout",
+      "raw_data": "! r,|`",
+      "parsed_data": null,
+      "process_id": 9856,
+      "memory_usage": 645.640625,
+      "cpu_usage": 0.0
+    },
+    {
+      "script_name": "model",
+      "timestamp": "2025-08-17T09:59:57.886161",
+      "cycle": null,
+      "output_type": "stdout",
+      "raw_data": "]r'|",
+      "parsed_data": null,
+      "process_id": 9856,
+      "memory_usage": 645.640625,
+      "cpu_usage": 0.0
+    },
+    {
+      "script_name": "model",
+      "timestamp": "2025-08-17T09:59:57.886246",
+      "cycle": null,
+      "output_type": "stdout",
+      "raw_data": "_gggg$g_",
+      "parsed_data": null,
+      "process_id": 9856,
+      "memory_usage": 645.640625,
+      "cpu_usage": 0.0
+    },
+    {
+      "script_name": "model",
+      "timestamp": "2025-08-17T09:59:57.886331",
+      "cycle": null,
+      "output_type": "stdout",
+      "raw_data": "`,zzm$MMMMMM$mz'~'",
+      "parsed_data": null,
+      "process_id": 9856,
+      "memory_usage": 645.640625,
+      "cpu_usage": 0.0
+    },
+    {
+      "script_name": "model",
+      "timestamp": "2025-08-17T09:59:57.886416",
+      "cycle": null,
+      "output_type": "stdout",
+      "raw_data": "' ~~~~$MWCPUM$@~~~",
+      "parsed_data": null,
+      "process_id": 9856,
+      "memory_usage": 645.640625,
+      "cpu_usage": 0.0
+    },
+    {
+      "script_name": "model",
+      "timestamp": "2025-08-17T09:59:57.886504",
+      "cycle": null,
+      "output_type": "stdout",
+      "raw_data": ".`-+$MMMMMM$+-`..",
+      "parsed_data": null,
+      "process_id": 9856,
+      "memory_usage": 645.640625,
+      "cpu_usage": 0.0
+    },
+    {
+      "script_name": "model",
+      "timestamp": "2025-08-17T09:59:57.886604",
+      "cycle": null,
+      "output_type": "stdout",
+      "raw_data": "*$FQTP",
+      "parsed_data": null,
+      "process_id": 9856,
+      "memory_usage": 645.640625,
+      "cpu_usage": 0.0
+    },
+    {
+      "script_name": "model",
+      "timestamp": "2025-08-17T09:59:57.886697",
+      "cycle": null,
+      "output_type": "stdout",
+      "raw_data": "1r |.",
+      "parsed_data": null,
+      "process_id": 9856,
+      "memory_usage": 645.640625,
+      "cpu_usage": 0.0
+    },
+    {
+      "script_name": "model",
+      "timestamp": "2025-08-17T09:59:57.890197",
+      "cycle": null,
+      "output_type": "stdout",
+      "raw_data": "|'L\" |",
+      "parsed_data": null,
+      "process_id": 9856,
+      "memory_usage": 645.640625,
+      "cpu_usage": 0.0
+    },
+    {
+      "script_name": "model",
+      "timestamp": "2025-08-17T09:59:57.890303",
+      "cycle": null,
+      "output_type": "stdout",
+      "raw_data": "'",
+      "parsed_data": null,
+      "process_id": 9856,
+      "memory_usage": 645.640625,
+      "cpu_usage": 0.0
+    },
+    {
+      "script_name": "model",
+      "timestamp": "2025-08-17T09:59:57.890412",
+      "cycle": null,
+      "output_type": "stdout",
+      "raw_data": "",
+      "parsed_data": null,
+      "process_id": 9856,
+      "memory_usage": 645.640625,
+      "cpu_usage": 0.0
+    },
+    {
+      "script_name": "model",
+      "timestamp": "2025-08-17T09:59:57.890508",
+      "cycle": null,
+      "output_type": "stdout",
+      "raw_data": "INFO|2025-08-17 09:59:57,883|neuralink|__init__.py|<module>|20: Installing Neuralink Version: 0.0.1",
+      "parsed_data": null,
+      "process_id": 9856,
+      "memory_usage": 645.640625,
+      "cpu_usage": 0.0
+    },
+    {
+      "script_name": "heart",
+      "timestamp": "2025-08-17T09:59:58.090386",
+      "cycle": null,
+      "output_type": "stdout",
+      "raw_data": "Traceback (most recent call last):",
+      "parsed_data": null,
+      "process_id": 9857,
+      "memory_usage": 616.48828125,
+      "cpu_usage": 0.0
+    }
+  ]
+}
